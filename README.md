@@ -1,16 +1,18 @@
-## Hi there 👋
 
-<!--
-**mdashikurrahmanmern/mdashikurrahmanmern** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![](https://github-readme-stats.vercel.app/api?username=mdashikurrahmanmern&theme=radical&show_icons=true&hide_border=false&count_private=true)
 
-Here are some ideas to get you started:
+![](https://github-readme-streak-stats.herokuapp.com/?user=mdashikurrahmanmern&theme=radical&hide_border=false)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=mdashikurrahmanmern&theme=radical&hide_border=false&layout=compact)
+
+---
+
+# 🔥 Visitor Count
+
+![](https://komarev.com/ghpvc/?username=mdashikurrahmanmern&label=Profile%20Views&color=blueviolet&style=for-the-badge)
+
+---
+
+<h3 align="center">
+✨ Thanks For Visiting My Profile ✨
+</h3>
